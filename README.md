@@ -1,1 +1,1 @@
-Transfer learning projects with Dr. Chuan Hong
+Transfer learning projects with Dr. Chuan Hong.
